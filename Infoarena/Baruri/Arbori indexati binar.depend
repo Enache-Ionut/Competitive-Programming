@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1474544340 source:e:\workspace\work space pca\intalnire 2016 - 09 - 28\arbori indexati binar\main.cpp
+	<stdio.h>
+	<math.h>
+	<vector>
+
+1474714704 source:e:\workspace\work space pca\intalnire 2016 - 09 - 28\baruri\main.cpp
+	<stdio.h>
+	<vector>
+
+1487337428 source:e:\workspace\work space pca\intalnire 2016 - 09 - 28\infoarena\baruri\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<iterator>
+	<algorithm>
+
