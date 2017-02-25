@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488032443 source:e:\workspace\work space pca\intalnire 2017 - 02 - 22\infoarena\bleach\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+
